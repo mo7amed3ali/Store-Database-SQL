@@ -22,3 +22,6 @@ Retail store database design using SQL Server.
 - SQL Server
 - T-SQL
 - Relational Database Design
+## Database Diagram
+
+![Database Diagram](database-diagram.png)
